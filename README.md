@@ -1,9 +1,8 @@
 # Repo_Study
 
 ## What is this?
- > 스터디 진행중에 사용될 Repo입니다.
- >
- > 스터디 중 과제의 커밋은 개개인의 Branch에 직접 올려주시면 됩니다.
+ 스터디 진행중에 사용될 Repo입니다.
+ 스터디 중 과제의 커밋은 개개인의 Branch에 직접 올려주시면 됩니다.
 
 ## Study Calendar
  ### Design Pattern of GoF
