@@ -20,7 +20,9 @@
   > Class: Interpreter, Template Method
   >
   > Object: Chain of Responsibility, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Visitor
-  
+
+------------------
+
  ### Algorithm Master Class
   > Improving Problem solving skills
   > Find out main point of Algorithm Problems
