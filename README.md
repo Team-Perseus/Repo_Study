@@ -5,8 +5,8 @@
  스터디 중 과제의 커밋은 개개인의 Branch에 직접 올려주시면 됩니다.
 
 ## Study Calendar
+
  ### Design Pattern of GoF
- -------------------
  ### Creational Pattern
   > Class: Factory Method
   >
