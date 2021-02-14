@@ -25,12 +25,18 @@
 
  ### Algorithm Master Class
   > Improving Problem solving skills
+  >
   > Find out main point of Algorithm Problems
 
  ### Algorithm Beginner Class
   > Data Structure
+  >
   > Searching
+  >
   > Brute Force
+  >
   > Divide & Conquer
+  >
   > Dynamic Programing
+  >
   > Greedy
