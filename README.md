@@ -4,10 +4,12 @@
  스터디 진행중에 사용될 Repo입니다.
  
  스터디 중 과제의 커밋은 개개인의 Branch에 직접 올려주시면 됩니다.
-
+ 
+ 스터디 참여자들은 Readme.md에 본인 이름을 직접 컨트리뷰션 해주시기 바랍니다.
 ## Peoples 
  Director: KanuKim97(angry_ryan@kakao.com)
-
+ Pro.
+ 
 ## Study Calendar
 
  ### Design Pattern of GoF
