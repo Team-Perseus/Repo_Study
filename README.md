@@ -11,12 +11,6 @@
  
  Pro.
  
- 1.
- 
- 2.
- 
- 3.
- 
 ## Study Calendar
 
  ### Design Pattern of GoF
