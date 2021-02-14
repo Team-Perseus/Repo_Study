@@ -10,9 +10,13 @@
  Director: KanuKim97(angry_ryan@kakao.com)
  
  Pro.
+ 
  1.
+ 
  2.
+ 
  3.
+ 
 ## Study Calendar
 
  ### Design Pattern of GoF
