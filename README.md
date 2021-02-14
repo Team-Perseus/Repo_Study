@@ -8,8 +8,11 @@
  스터디 참여자들은 Readme.md에 본인 이름을 직접 컨트리뷰션 해주시기 바랍니다.
 ## Peoples 
  Director: KanuKim97(angry_ryan@kakao.com)
- Pro.
  
+ Pro.
+ 1.
+ 2.
+ 3.
 ## Study Calendar
 
  ### Design Pattern of GoF
