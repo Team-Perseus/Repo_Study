@@ -5,6 +5,9 @@
  
  스터디 중 과제의 커밋은 개개인의 Branch에 직접 올려주시면 됩니다.
 
+## Peoples 
+ Director: KanuKim97(angry_ryan@kakao.com)
+
 ## Study Calendar
 
  ### Design Pattern of GoF
