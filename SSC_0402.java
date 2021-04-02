@@ -38,7 +38,7 @@ public class PriorityTest {
 		
 		int K = 7;
 		
-		System.out.println("Ƚ��: " + shake(scoville, K));
+		System.out.println("È½¼ö: " + shake(scoville, K));
 	}
 
 }
