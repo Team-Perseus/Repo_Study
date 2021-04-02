@@ -9,7 +9,7 @@
 ## Peoples 
  Director: KanuKim97(angry_ryan@kakao.com)
  
- Pro.
+ Pro. 박영환(pch12900@naver.com)
  
 ## Study Calendar
 
